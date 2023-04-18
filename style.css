@@ -40,6 +40,11 @@ main {
   flex-direction: column;
 }
 
+.park-display:hover{
+  transform: scale(1.05);
+box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
 .park-display > h2 {
   background-color: #734230;
   color: #fcc988;
@@ -121,4 +126,24 @@ main {
   main {
     grid-template-columns: repeat(4, 1fr);
   }
+}
+
+.high-rating {
+  color: #3ba17c;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.header-statement {
+  color: #ffffff;
+  font-size: 1.2rem;
+  color: #feffee;
+}
+
+.sorter {
+  width: 90%;
+  margin: 0 auto;
+  padding: 6px;
 }
