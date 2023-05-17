@@ -1,5 +1,18 @@
 # National Parks
 
+### A Thinkful Assignment
+
+This site is a page for viewing a sampling of national parks and adding your own. 
+
+#### *This codebase is forked and derived from the original work by Thinkful*
+
+## Installation
+
+1. Fork and Clone repository
+1. Open index.html in browser
+
+---
+
 _Starter project for Front End Web Development JavaScript and the DOM module_
 
 ## Introduction
