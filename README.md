@@ -2,7 +2,13 @@
 
 ### A Thinkful Assignment
 
-This site is a page for viewing a sampling of national parks and adding your own. 
+This site is a page for viewing a sampling of national parks and adding your own.
+
+## Implimentation
+
+Built on the framework created by Thinkful. Credit for the basic styling and HTML goes to Thinkful
+
+Form content is quered and added to the DOM with JavaScript
 
 #### *This codebase is forked and derived from the original work by Thinkful*
 
